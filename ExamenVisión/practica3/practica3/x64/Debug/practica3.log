@@ -1,0 +1,5 @@
+﻿  GaussKernel.cpp
+C:\Users\pantr\Documents\CuartoSemestre\Vision_Artificial\Practica3\practica3\practica3\GaussKernel.cpp(59,6): warning C4101: 'nivel': variable local sin referencia
+C:\Users\pantr\Documents\CuartoSemestre\Vision_Artificial\Practica3\practica3\practica3\GaussKernel.cpp(61,6): warning C4101: 'j': variable local sin referencia
+C:\Users\pantr\Documents\CuartoSemestre\Vision_Artificial\Practica3\practica3\practica3\GaussKernel.cpp(60,6): warning C4101: 'i': variable local sin referencia
+  practica3.vcxproj -> C:\Users\pantr\Documents\CuartoSemestre\Vision_Artificial\Practica3\practica3\x64\Debug\practica3.exe
